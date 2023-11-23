@@ -1,0 +1,10 @@
+# Ignorar recursivamente .pytest_cache en cualquier ubicación
+**/.pytest_cache/
+
+# Ignorar recursivamente __pycache__ en cualquier ubicación
+**/__pycache__/
+
+# Ignorar la carpeta datasets
+datasets/
+
+project_env/

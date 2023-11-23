@@ -1,0 +1,15 @@
+============================= test session starts =============================
+platform win32 -- Python 3.11.3, pytest-7.4.3, pluggy-1.3.0
+rootdir: D:\Repositorios\dev\prueba_tecnica_cyd
+collected 3 items
+
+test\test_data_extractor.py ..                                           [ 66%]
+test\test_data_transform.py .                                            [100%]
+
+============================== 3 passed in 4.04s ==============================
+CORRECTO: el proceso con PID 9040 (proceso secundario de PID 3660)
+ha sido terminado.
+CORRECTO: el proceso con PID 3660 (proceso secundario de PID 7216)
+ha sido terminado.
+CORRECTO: el proceso con PID 7216 (proceso secundario de PID 4540)
+ha sido terminado.
